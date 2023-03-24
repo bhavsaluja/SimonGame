@@ -17,6 +17,12 @@ body {
 
 }
 
+footer {
+  margin:  5%;
+  color: #FEF2BF;
+  font-family: 'Press Start 2P', cursive;
+}
+
 .btn {
   margin: 25px;
   display: inline-block;
